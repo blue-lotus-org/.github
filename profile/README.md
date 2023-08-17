@@ -57,7 +57,6 @@ We provide our services for different EVM blockchains like Ethereum, BSC, Polygo
 | --- | --- | --- | --- |
 | **Github** | [Repositories](https://github.com/blue-lotus-org) | **Linkedin** | [Blue Lotus](https://www.linkedin.com/company/bluelotus-corp/?viewAsMember=true) |
 
-|||||
-| --- | --- | --- | --- |
-| **Mosi** | [github](https://github.com/mosi-sol) | **Sepehr** | [github](https://github.com/sepehr310) |
-| **Sepentaminu** | [github](https://github.com/sepentaminu) |  |  |
+||||||
+| --- | --- | --- | --- | --- |
+| **Mosi** | [github](https://github.com/mosi-sol) | **Sepehr** | [github](https://github.com/sepehr310) | **Sepentaminu** | [github](https://github.com/sepentaminu) |
