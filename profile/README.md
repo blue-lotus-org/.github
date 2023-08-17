@@ -11,7 +11,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 * **Excepteur sint** occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 <p align="center">
-  <img src="https://github.com/blue-lotus-org/.github/blob/main/profile/BlueLotus.jpg" alt="Blue Lotus" width="738">
+  <img src="https://github.com/blue-lotus-org/.github/blob/main/profile/BlueLotus.jpg" alt="Blue Lotus" width="220">
 </p>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pellentesque elit ullamcorper dignissim cras tincidunt lobortis feugiat. Vitae purus faucibus ornare suspendisse sed nisi lacus. Rhoncus mattis rhoncus urna neque. Eget magna fermentum iaculis eu.
