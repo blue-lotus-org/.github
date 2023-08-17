@@ -16,7 +16,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <p align="center">
   <a href="https://github.com/blue-lotus-org">
     <img src="https://github.com/blue-lotus-org/.github/blob/main/profile/BlueLotus.jpg"
-         alt="BlueLotus" width="254" height="254">
+         alt="BlueLotus" width="154" height="154">
   </a>
 </p>
 
