@@ -29,15 +29,20 @@ We believe that our mission is crucial in promoting the adoption of decentralize
 Our primary service is smart contract audit. We will provide a comprehensive audit report that identifies potential vulnerabilities in the smart contract and provides recommendations for improvement. We will also offer consulting services to help clients implement the recommended changes.
 At Smartcontract Audit, we offer a range of smart contract audit services to ensure the security and reliability of our clients' smart contracts. Our services include:
 
-- **Automated Smart Contract Auditing**: Our AI-powered platform can automatically audit smart contracts and identify potential vulnerabilities. This service is ideal for small businesses and developers who want a quick and affordable way to audit their smart contracts.
+- **Automated Smart Contract Auditing**:\
+- Our AI-powered platform can automatically audit smart contracts and identify potential vulnerabilities. This service is ideal for small businesses and developers who want a quick and affordable way to audit their smart contracts.
 
-- **Manual Smart Contract Auditing**: Our team of expert auditors performs a comprehensive manual audit of the smart contract's code and identifies potential vulnerabilities. This service is ideal for businesses and individuals who want a more detailed and customized audit.
+- **Manual Smart Contract Auditing**:\
+- Our team of expert auditors performs a comprehensive manual audit of the smart contract's code and identifies potential vulnerabilities. This service is ideal for businesses and individuals who want a more detailed and customized audit.
 
-- **Smart Contract Development Consultation**: We provide consultation services to businesses and individuals who want to develop smart contracts. We offer guidance on best practices for smart contract development and help identify potential security risks.
+- **Smart Contract Development Consultation**:\
+- We provide consultation services to businesses and individuals who want to develop smart contracts. We offer guidance on best practices for smart contract development and help identify potential security risks.
 
-- **Smart Contract Review**: We review smart contracts that have already been audited to ensure that all potential vulnerabilities have been addressed.
+- **Smart Contract Review**:\
+- We review smart contracts that have already been audited to ensure that all potential vulnerabilities have been addressed.
 
-- **Training and Education**: We offer training and educational services to businesses and individuals who want to learn more about smart contract security and best practices for smart contract development.
+- **Training and Education**:\
+- We offer training and educational services to businesses and individuals who want to learn more about smart contract security and best practices for smart contract development.
 
 We provide our services for different EVM blockchains like Ethereum, BSC, Polygon, and others. Our goal is to provide a reliable and efficient way to audit smart contracts and help build trust in the blockchain space. We are committed to providing the highest level of service and expertise to our clients and contributing to the growth and development of the blockchain industry.
 
