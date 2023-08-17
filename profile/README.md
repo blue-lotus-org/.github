@@ -17,7 +17,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pellentesque elit ullamcorper dignissim cras tincidunt lobortis feugiat. Vitae purus faucibus ornare suspendisse sed nisi lacus. Rhoncus mattis rhoncus urna neque. Eget magna fermentum iaculis eu.
 
 <p align="center">
-  <img src="./BlueLotus.jpg" alt="Statoscope example" width="650">
+  <img src="./BlueLotus.jpg" alt="Statoscope example" width="128">
 </p>
 
 <p align="center">
