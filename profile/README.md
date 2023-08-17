@@ -11,18 +11,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 * **Excepteur sint** occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 <p align="center">
-  <img src="./BlueLotus.jpg" alt="Blue Lotus" width="738">
+  <img src="https://github.com/blue-lotus-org/.github/blob/main/profile/BlueLotus.jpg" alt="Blue Lotus" width="738">
 </p>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pellentesque elit ullamcorper dignissim cras tincidunt lobortis feugiat. Vitae purus faucibus ornare suspendisse sed nisi lacus. Rhoncus mattis rhoncus urna neque. Eget magna fermentum iaculis eu.
 
 <p align="center">
-  <img src="./BlueLotus.jpg" alt="Statoscope example" width="128">
+  <img src="https://github.com/blue-lotus-org/.github/blob/main/profile/BlueLotus.jpg" alt="BlueLotus" width="128">
 </p>
 
 <p align="center">
   <a href="https://github.com/blue-lotus-org">
-    <img src="./BlueLotus.jpg"
+    <img src="https://github.com/blue-lotus-org/.github/blob/main/profile/BlueLotus.jpg"
          alt="BlueLotus" width="236" height="54">
   </a>
 </p>
