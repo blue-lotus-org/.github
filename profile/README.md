@@ -26,7 +26,7 @@ We believe that our mission is crucial in promoting the adoption of decentralize
 <p align="center">
   <a href="https://github.com/blue-lotus-org">
     <img src="https://github.com/blue-lotus-org/.github/blob/main/profile/BlueLotus.jpg"
-         alt="BlueLotus" width="154" height="154">
+         alt="BlueLotus" width="128" height="128">
   </a>
 </p>
 
@@ -54,7 +54,7 @@ We provide our services for different EVM blockchains like Ethereum, BSC, Polygo
 <p align="center">
   <a href="https://github.com/blue-lotus-org">
     <img src="https://github.com/blue-lotus-org/.github/blob/main/profile/BlueLotus.jpg"
-         alt="BlueLotus" width="236" height="236">
+         alt="BlueLotus" width="64" height="64">
   </a>
 </p>
 
