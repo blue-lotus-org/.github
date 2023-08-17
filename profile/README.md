@@ -32,7 +32,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 [GitHub]: https://github.com/blue-lotus-org
 [Linkedin]: https://github.com/blue-lotus-org
 
-## Reach Me
+## Reach Us
 
-- Github: [Repositories](https://github.com/blue-lotus-org)
-- Linkedin: [Blue Lotus](https://www.linkedin.com/company/bluelotus-corp/?viewAsMember=true)
+|||
+|---|---|
+| Github: | [Repositories](https://github.com/blue-lotus-org) |
+| Linkedin: | [Blue Lotus](https://www.linkedin.com/company/bluelotus-corp/?viewAsMember=true) |
