@@ -1,7 +1,5 @@
 # BlueLotus
 
-# Size Limit [![Cult Of Martians][cult-img]][cult]
-
 <img src="https://github.com/blue-lotus-org/.github/blob/main/profile/BlueLotus.jpg" align="right"
      alt="BlueLotus" width="120" height="178">
 
