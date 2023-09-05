@@ -93,6 +93,7 @@ graph TD;
     SmartContract-->Analyze-->Detector
     SmartContract-->Review-->Detector
      Detector-->CodeCoverage-->Audit/SecurityAudit
+     Detector-->BugBounty
 ```
 
 #
