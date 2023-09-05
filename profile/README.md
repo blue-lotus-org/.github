@@ -103,7 +103,7 @@ pie
 "coverage" : 679
 "audit" : 1936
 "security-audit" : 2029
-"bug-bounty" : 17
+"bug-bounty" : 117
 ```
 
 #
