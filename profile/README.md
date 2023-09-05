@@ -97,9 +97,13 @@ graph TD;
 
 ```mermaid
 pie
-"Audit" : 4071
-"SecurityAudit" : 2988
-"Bounty" : 131
+"analyzor" : 4071
+"review" : 2988
+"detector" : 1310
+"coverage" : 679
+"audit" : 1936
+"security-audit" : 2029
+"bug-bounty" : 17
 ```
 
 #
