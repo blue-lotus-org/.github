@@ -64,6 +64,19 @@ We provide our services for different EVM blockchains like Ethereum, BSC, Polygo
 [GitHub]: https://github.com/blue-lotus-org
 [Linkedin]: https://github.com/blue-lotus-org
 
+#
+
+```mermaid
+flowchart LR
+
+A[Idea] -->|R&D| B(Process)
+B --> C{Develop}
+C -->|Test| D[Beta Test]
+C -->|Launch| E[Release Applications ]
+```
+
+#
+
 ## Reach Us
 
 |||||
