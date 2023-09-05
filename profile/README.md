@@ -95,6 +95,15 @@ graph TD;
 
 #
 
+```mermaid
+pie
+"Audit" : 4071
+"SecurityAudit" : 2988
+"Bounty" : 131
+```
+
+#
+
 ## Reach Us
 
 |||||
