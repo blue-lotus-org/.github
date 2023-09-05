@@ -73,3 +73,11 @@ We provide our services for different EVM blockchains like Ethereum, BSC, Polygo
 |||||||
 | --- | --- | --- | --- | --- | --- |
 | **Mosi** | [github](https://github.com/mosi-sol) | **Sepehr** | [github](https://github.com/sepehr310) | **Sepentaminu** | [github](https://github.com/sepentaminu) |
+
+---
+
+<div align="right">
+     <sub>
+          This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
+     </sub>
+</div>
