@@ -77,6 +77,15 @@ C -->|Launch| E[Release Applications ]
 
 #
 
+```mermaid
+graph TD;
+    SmartContract-->Analyze-->Detector
+    SmartContract-->Review-->Detector
+     Detector-->CodeCoverage-->Audit/SecurityAudit
+```
+
+#
+
 ## Reach Us
 
 |||||
