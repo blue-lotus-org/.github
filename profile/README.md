@@ -112,6 +112,11 @@ pie
 
 #
 
+<div align="center">
+ <img src="https://github.com/blue-lotus-org/.github/blob/main/profile/BlueLotusLogo.gif"
+         alt="BlueLotus" width="256" height="256">
+</div>
+
 ## Reach Us
 
 |||||
