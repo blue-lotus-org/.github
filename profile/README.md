@@ -30,15 +30,7 @@ As soon : [lotuschain.org](https://lotuschain.org)
      </a>
 </div>
 
-### Mission:
-Our mission is to provide a secure and efficient way to audit smart contracts on different EVM blockchains like Ethereum, BSC, Polygon, and others. We want to ensure that any crypto investor, producer, customer, or business can have a safe saving when it comes to smart contracts.
-Our mission at Smartcontract Audit is to provide a reliable and efficient way to audit smart contracts on different EVM blockchains like Ethereum, BSC, Polygon, and others. We understand that the blockchain industry is growing at an unprecedented rate, and with this growth comes the need for increased security and trust in the space.
-
-We believe that smart contract audits are essential to building trust in the blockchain space. By providing a comprehensive audit report that identifies potential vulnerabilities in the smart contract and provides recommendations for improvement, we can help ensure that our clients' smart contracts are secure.
-
-Our mission is not just to provide a service but also to educate our clients on the importance of smart contract audits. We want to raise awareness of the potential risks associated with smart contracts and encourage best practices in their development and auditing.
-
-We believe that our mission is crucial in promoting the adoption of decentralized applications and building a more secure and trustworthy blockchain ecosystem. We are committed to providing the highest level of service and expertise to our clients and contributing to the growth and development of the blockchain industry.
+Overall, Blue Lotus' ownership of these dapps showcases the dedication to pushing the boundaries of blockchain technology and its applications. By harnessing the power of decentralization, we aim to provide innovative solutions that solve real-world problems and improve various aspects of industries such as content delivery, decentralized identities, messaging, and smart contract auditing.
 
 <p align="center">
   <a href="https://github.com/blue-lotus-org">
