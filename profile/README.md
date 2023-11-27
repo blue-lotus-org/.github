@@ -40,25 +40,19 @@ Overall, Blue Lotus' ownership of these dapps showcases the dedication to pushin
 </p>
 
 ### Services:
-Our primary service is smart contract audit. We will provide a comprehensive audit report that identifies potential vulnerabilities in the smart contract and provides recommendations for improvement. We will also offer consulting services to help clients implement the recommended changes.
-At Smartcontract Audit, we offer a range of smart contract audit services to ensure the security and reliability of our clients' smart contracts. Our services include:
+Blue Lotus, also known as LotusChain, owns and operates several decentralized applications (dapps) that aim to leverage blockchain technology for various purposes. Here is an overview of the dapps owned by Blue Lotus:
 
-- **Automated Smart Contract Auditing**:\
-Our AI-powered platform can automatically audit smart contracts and identify potential vulnerabilities. This service is ideal for small businesses and developers who want a quick and affordable way to audit their smart contracts.
+1. **dCDN: Decentralized CDN**: Blue Lotus proposes the development and integration of a decentralized Content Delivery Network (dCDN) using the InterPlanetary File System (IPFS). The dCDN aims to revolutionize the traditional CDN model by utilizing the decentralized nature of IPFS to provide a more efficient, secure, and scalable content delivery solution.
 
-- **Manual Smart Contract Auditing**:\
-Our team of expert auditors performs a comprehensive manual audit of the smart contract's code and identifies potential vulnerabilities. This service is ideal for businesses and individuals who want a more detailed and customized audit.
+2. **ALT: At Live Token**: Blue Lotus intends to integrate ALT (At Live Token) into a decentralized application (Dapp) ecosystem. ALT is an ERC721 token that serves as a protocol for creating decentralized identities for users. By incorporating ALT into a Dapp, Blue Lotus can leverage its unique features and benefits to enhance user experiences and enable seamless interactions on EVM blockchains.
 
-- **Smart Contract Development Consultation**:\
-We provide consultation services to businesses and individuals who want to develop smart contracts. We offer guidance on best practices for smart contract development and help identify potential security risks.
+3. **ALP: At Live Token Profile**: Blue Lotus proposes integrating ALT (At Live Token) into the ALP (ALT Profile) Dapp ecosystem. Similar to the previous proposal, ALT serves as a protocol for creating decentralized identities for users. By integrating ALT into ALP, Blue Lotus aims to enhance user experiences and enable seamless interactions on EVM blockchains.
 
-- **Smart Contract Review**:\
-We review smart contracts that have already been audited to ensure that all potential vulnerabilities have been addressed.
+4. **ALT-IDM: All EVM Input Data Messages (IDM)**: Blue Lotus proposes the development and launch of a decentralized application (Dapp) called "Ethereum ALT IDM (Input Data Messages)" on both EVM and Non-EVM blockchains. This Dapp will enable users to send and receive internal messages within the Ethereum Virtual Machine (EVM) where the Dapp is deployed. It will be compatible with all EVM blockchains and available on both main net and test net environments.
 
-- **Training and Education**:\
-We offer training and educational services to businesses and individuals who want to learn more about smart contract security and best practices for smart contract development.
+5. **ALT-Audit: Smartcontract Audit Service (AI)**: Blue Lotus plans to integrate a decentralized AI for auditing smart contracts into their Dapp. This AI will provide an automated and efficient way to detect problems and vulnerabilities in smart contracts. The Dapp will prioritize user privacy and security by not collecting any user data.
 
-We provide our services for different EVM blockchains like Ethereum, BSC, Polygon, and others. Our goal is to provide a reliable and efficient way to audit smart contracts and help build trust in the blockchain space. We are committed to providing the highest level of service and expertise to our clients and contributing to the growth and development of the blockchain industry.
+These dapps owned by Blue Lotus aim to harness the power of blockchain technology, decentralized systems, and smart contracts to provide innovative solutions across various domains such as content delivery, decentralized identities, messaging, and smart contract auditing.
 
 <p align="center">
   <a href="https://github.com/blue-lotus-org">
