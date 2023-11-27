@@ -13,7 +13,7 @@ As soon : [lotuschain.org](https://lotuschain.org)
 <img src="https://github.com/blue-lotus-org/.github/blob/main/profile/BlueLotus.jpg" align="right"
      alt="BlueLotus" width="160" height="160">
 
-**Blue Lotus**, also known as **LotusChain**, is at the forefront of developing and integrating decentralized applications (dapps) that leverage blockchain technology to revolutionize various industries. Our dapps, including **dCDN**, **ALT**, **ALP**, **ALT-IDM**, and **ALT-Audit**, showcase their commitment to utilizing the decentralized nature of blockchain networks to provide more efficient, secure, and scalable solutions.\
+**Blue Lotus**, also known as **LotusChain**, is at the forefront of developing and integrating decentralized applications (dapps) that leverage blockchain technology to revolutionize various industries. Our dapps, including **dCDN**, **ALT**, **ALP**, **ALT-IDM**, and **ALT-Audit**, showcase our commitment to utilizing the decentralized nature of blockchain networks to provide more efficient, secure, and scalable solutions.\
 [**LotusChain Product**] - [shoot pitch](https://github.com/blue-lotus-org/lotus-products)
 
 - **Github**: [Repositories](https://github.com/blue-lotus-org)
