@@ -114,6 +114,10 @@ pie
 | --- | --- | --- | --- |
 | **Github** | [Repositories](https://github.com/blue-lotus-org) | **Linkedin** | [Blue Lotus](https://www.linkedin.com/company/bluelotus-corp) |
 
+|||||
+| --- | --- | --- | --- |
+| **BlueLotus** | [LotusChain](https://lotuschain.org) | **Contact us** | <contact@lotuschain.org> |
+
 |||||||
 | --- | --- | --- | --- | --- | --- |
 | **Mosi** | [github](https://github.com/mosi-sol) | **Sepehr** | [github](https://github.com/sepehr310) | **Sepentaminu** | [github](https://github.com/sepentaminu) |
