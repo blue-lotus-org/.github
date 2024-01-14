@@ -21,6 +21,7 @@ As soon : [lotuschain.org](https://lotuschain.org)
 - **Linkedin**: [Blue Lotus](https://www.linkedin.com/company/bluelotus-corp)
 - **Home**: [Lotus Chain](https://lotuschain.org)
 - **Telegram News**: [LotusChain](https://t.me/lotuschain_org)
+- **Blog**: [Medium](https://lotuschain.medium.com/)
 <div align="right">
   <a href="https://www.linkedin.com/company/bluelotus-corp" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
