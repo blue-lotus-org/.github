@@ -130,6 +130,41 @@ pie
 
 ---
 
+**Smartcontract Security Audit Based On Following Links:**
+
+
+Smart Contract Weakness Classification (SWC):
+
+    https://swcregistry.io/
+
+Solidity Vulnerabilities Dataset:
+
+    https://www.kaggle.com/datasets/shivam017arora/smart-contract-audit-reports-dataset
+    https://www.kaggle.com/code/yousefsaeedian/analysis-of-smart-contracts-in-blockchain/input
+
+Top Solidity Vulnerabilities:
+
+    https://github.com/kadenzipfel/smart-contract-vulnerabilities
+
+Standards (EEA EthTrust Security Levels Specification):
+
+    https://github.com/ComposableSecurity/SCSVS
+
+Articles/Journals:
+
+    https://www.mdpi.com/2624-800X/2/2/19
+    https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7516633/
+    https://www.researchgate.net/publication/379726984_Vulnerabilities_of_smart_contracts_and_mitigation_schemes_A_Comprehensive_Survey
+    https://arxiv.org/html/2403.19805v2
+
+Papers Directory:
+
+    https://github.com/hzysvilla/Academic_Smart_Contract_Papers
+
+
+
+---
+
 <div align="right">
      <sub>
           This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
