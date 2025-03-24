@@ -13,8 +13,13 @@ As soon : [lotuschain.org](https://lotuschain.org)
 <img src="https://github.com/blue-lotus-org/.github/blob/main/profile/BlueLotus.jpg" align="right"
      alt="BlueLotus" width="160" height="160">
 
-**Blue Lotus**, also known as **LotusChain**, is at the forefront of developing and integrating decentralized applications (dapps) that leverage blockchain technology to revolutionize various industries. Our dapps, including **dCDN**, **ALT**, **ALP**, **ALT-IDM**, and **ALT-Audit**, showcase our commitment to utilizing the decentralized nature of blockchain networks to provide more efficient, secure, and scalable solutions.\
-[**LotusChain Product**] - [shoot pitch](https://github.com/blue-lotus-org/lotus-products)
+**Welcome to Blue Lotus | AI-Powered Innovation & Startup Studio**
+
+## About Us
+
+Blue Lotus, also known as LOTUSCHAiN, is a dynamic Startup Studio at the forefront of AI-driven innovation. We've evolved from our roots in blockchain security and AI automation to become a powerhouse for developing scalable AI solutions across healthcare, security, and business automation sectors.
+
+<!--[**LotusChain Product**] - [shoot pitch](https://github.com/blue-lotus-org/lotus-products)-->
 
 - **Github**: [Repositories](https://github.com/blue-lotus-org)
 - **Publish**: [Application](https://github.com/blue-lotus-lab)
@@ -28,11 +33,12 @@ As soon : [lotuschain.org](https://lotuschain.org)
   </a>
 </div>
 
-# Welcome to Blue Lotus | AI-Powered Innovation & Startup Studio
+## Our Journey
 
-## About Us
-
-Blue Lotus, also known as LOTUSCHAiN, is a dynamic Startup Studio at the forefront of AI-driven innovation. We've evolved from our roots in blockchain security and AI automation to become a powerhouse for developing scalable AI solutions across healthcare, security, and business automation sectors.
+- **2023:** Focused on blockchain security, AI automation, and open-source development.
+- **2024:** Transitioned to a Startup Studio, launching AI-driven ventures.
+- **2025:** Expanding into AI-powered SaaS solutions.
+- **2026+:** Developing Lotus OS and pursuing strategic exits & mergers.
 
 <p align="center">
   <a href="https://github.com/blue-lotus-org">
@@ -40,13 +46,6 @@ Blue Lotus, also known as LOTUSCHAiN, is a dynamic Startup Studio at the forefro
          alt="BlueLotus" width="128" height="128">
   </a>
 </p>
-
-## Our Journey
-
-- **2023:** Focused on blockchain security, AI automation, and open-source development.
-- **2024:** Transitioned to a Startup Studio, launching AI-driven ventures.
-- **2025:** Expanding into AI-powered SaaS solutions.
-- **2026+:** Developing Lotus OS and pursuing strategic exits & mergers.
 
 ## Key Initiatives
 
