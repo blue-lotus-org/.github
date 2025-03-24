@@ -26,12 +26,13 @@ As soon : [lotuschain.org](https://lotuschain.org)
   <a href="https://www.linkedin.com/company/bluelotus-corp" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-     <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
-          <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" width="120" height="40" />
-     </a>
 </div>
 
-Overall, Blue Lotus' ownership of these dapps showcases the dedication to pushing the boundaries of blockchain technology and its applications. By harnessing the power of decentralization, we aim to provide innovative solutions that solve real-world problems and improve various aspects of industries such as content delivery, decentralized identities, messaging, and smart contract auditing.
+# Welcome to Blue Lotus | AI-Powered Innovation & Startup Studio
+
+## About Us
+
+Blue Lotus, also known as LOTUSCHAiN, is a dynamic Startup Studio at the forefront of AI-driven innovation. We've evolved from our roots in blockchain security and AI automation to become a powerhouse for developing scalable AI solutions across healthcare, security, and business automation sectors.
 
 <p align="center">
   <a href="https://github.com/blue-lotus-org">
@@ -40,25 +41,44 @@ Overall, Blue Lotus' ownership of these dapps showcases the dedication to pushin
   </a>
 </p>
 
-### Services:
-Blue Lotus, also known as LotusChain, owns and operates several decentralized applications (dapps) that aim to leverage blockchain technology for various purposes. Here is an overview of the dapps owned by Blue Lotus:
+## Our Journey
 
-1. **dCDN "Decentralized CDN"**: Blue Lotus proposes the development and integration of a decentralized Content Delivery Network (dCDN) using the InterPlanetary File System (IPFS). The dCDN aims to revolutionize the traditional CDN model by utilizing the decentralized nature of IPFS to provide a more efficient, secure, and scalable content delivery solution.\
-[read more](https://github.com/blue-lotus-org/lotus-products/tree/main/dCDN)
+- **2023:** Focused on blockchain security, AI automation, and open-source development.
+- **2024:** Transitioned to a Startup Studio, launching AI-driven ventures.
+- **2025:** Expanding into AI-powered SaaS solutions.
+- **2026+:** Developing Lotus OS and pursuing strategic exits & mergers.
 
-2. **ALT "At Live Token"**: Blue Lotus intends to integrate ALT (At Live Token) into a decentralized application (Dapp) ecosystem. ALT is an ERC721 token that serves as a protocol for creating decentralized identities for users. By incorporating ALT into a Dapp, Blue Lotus can leverage its unique features and benefits to enhance user experiences and enable seamless interactions on EVM blockchains.\
-[read more](https://github.com/blue-lotus-org/lotus-products/tree/main/ALT)
+## Key Initiatives
 
-3. **ALP "At Live Token Profile"**: Blue Lotus proposes integrating ALT (At Live Token) into the ALP (ALT Profile) Dapp ecosystem. Similar to the previous proposal, ALT serves as a protocol for creating decentralized identities for users. By integrating ALT into ALP, Blue Lotus aims to enhance user experiences and enable seamless interactions on EVM blockchains.\
-[read more](https://github.com/blue-lotus-org/lotus-products/tree/main/ALP)
+- **Oxin Surgery:** Revolutionizing cross-border healthcare in the Middle East.
+- **Health Mentor:** AI-driven health & lifestyle coaching.
+- **Lotus ASR:** Cutting-edge multilingual speech recognition supporting 23 languages.
+- **Generative AI Development Suite:** Automating full-stack app creation.
+- **Lotus Smart Security:** AI-based security auditing for Solidity smart contracts.
+- **Lotus Research Assistant:** AI research tool with access to millions of articles and papers.
+- **Lotus Agent:** High-tech AI-Agents peripherals with custom agent generation.
 
-4. **ALT-IDM "All EVM Input Data Messages (IDM)"**: Blue Lotus proposes the development and launch of a decentralized application (Dapp) called "Ethereum ALT IDM (Input Data Messages)" on both EVM and Non-EVM blockchains. This Dapp will enable users to send and receive internal messages within the Ethereum Virtual Machine (EVM) where the Dapp is deployed. It will be compatible with all EVM blockchains and available on both main net and test net environments.\
-[read more](https://github.com/blue-lotus-org/lotus-products/tree/main/IDM)
+## Our Vision
 
-5. **ALT-Audit "Smartcontract Audit Service (AI)"**: Blue Lotus plans to integrate a decentralized AI for auditing smart contracts into their Dapp. This AI will provide an automated and efficient way to detect problems and vulnerabilities in smart contracts. The Dapp will prioritize user privacy and security by not collecting any user data.\
-[read more](https://github.com/blue-lotus-org/lotus-products/tree/main/Audit)
+At Blue Lotus, we believe AI is a tool to enhance human capabilities, not replace them. Our focus on public sectors, healthcare, and accessibility ensures that our innovations drive real-world impact while maintaining transparency and security.
 
-These dapps owned by Blue Lotus aim to harness the power of blockchain technology, decentralized systems, and smart contracts to provide innovative solutions across various domains such as content delivery, decentralized identities, messaging, and smart contract auditing.
+## Open-Source Contributions
+
+We're committed to fostering innovation through open-source development. Our GitHub repositories showcase a range of projects, including:
+
+- AI agent generators using LlamaIndex and LangChain
+- Smart contract development and auditing tools
+- Developer resources and utilities
+
+## Join Our Innovation Journey
+
+Whether you're an entrepreneur, developer, or investor, we invite you to be part of our ecosystem:
+
+- Explore our [GitHub repositories](https://github.com/orgs/blue-lotus-org/repositories)
+- Visit our [website](https://lotuschain.org/) to learn more
+- Connect with us for partnership opportunities
+
+Let's shape the future of AI-driven innovation together!
 
 <p align="center">
   <a href="https://github.com/blue-lotus-org">
