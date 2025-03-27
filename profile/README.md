@@ -4,9 +4,9 @@
  ____)  ) |_   _  ____   | |      ___ | |_ _   _  ___ 
 |  __  (| | | | |/ _  )  | |     / _ \|  _) | | |/___)
 | |__)  ) | |_| ( (/ /   | |____| |_| | |_| |_| |___ |
-|______/|_|\____|\____)  |_______)___/ \___)____(___/ Security Audit SmartContracts, 2022-2023
+|______/|_|\____|\____)  |_______)___/ \___)____(___/ Smart Startup Studio
 ```
-As soon : [lotuschain.org](https://lotuschain.org)
+We are here : [lotuschain.org](https://lotuschain.org)
 
 # BlueLotus
 
