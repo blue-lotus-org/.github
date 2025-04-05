@@ -91,6 +91,21 @@ Let's shape the future of AI-driven innovation together!
 
 #
 
+## Our Free & Opensource Projects (AI)
+|---||---|
+|---|---|---|
+| [UML V1](https://github.com/blue-lotus-org/UML) || [UML V2](https://github.com/blue-lotus-org/UML-v2) |
+| [Jobby (Apply Board)](https://github.com/blue-lotus-org/jobby) || [Database Organizer](https://github.com/blue-lotus-org/Database-Organizer) |
+| [Lamaindex Agent Generator](https://github.com/blue-lotus-org/LamaGen) || [Langchain Agent Generator](https://github.com/blue-lotus-org/LangGen) |
+| [Mistral Agent Pipeline](https://github.com/blue-lotus-org/Agent-Pipeline) || [Github Tree](https://github.com/blue-lotus-org/mistree) |
+| [Content Editor (Word)](https://github.com/blue-lotus-org/mistral-content-editor) || [Knowledge Graph Controler](https://github.com/blue-lotus-org/knowledge) |
+| [MCP](https://github.com/blue-lotus-org/MCP) || [Linux Terminal AI-Moderator](https://github.com/blue-lotus-org/mysterminal) |
+| [Smartcontract Pipline Agent](https://github.com/blue-lotus-org/Smartcontract-AI-Agentic-System) || [Linux Kernel Optimizer - Live Edition](https://github.com/blue-lotus-org/LinuxKernelOptimization) |
+| [Incredible Prompts](https://github.com/blue-lotus-org/prompt) ||  |
+|---||---|
+
+---
+
 ### Productions 
 ```mermaid
 flowchart LR
