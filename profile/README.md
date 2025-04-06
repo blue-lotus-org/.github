@@ -99,7 +99,7 @@ Let's shape the future of AI-driven innovation together!
 | [Lamaindex Agent Generator](https://github.com/blue-lotus-org/LamaGen) || [Langchain Agent Generator](https://github.com/blue-lotus-org/LangGen) |
 | [Mistral Agent Pipeline](https://github.com/blue-lotus-org/Agent-Pipeline) || [Github Tree](https://github.com/blue-lotus-org/mistree) |
 | [Content Editor (Word)](https://github.com/blue-lotus-org/mistral-content-editor) || [Knowledge Graph Controler](https://github.com/blue-lotus-org/knowledge) |
-| [Mistral Agent Builder](https://github.com/blue-lotus-org/mistral-agent-builder) ||  |
+| [Mistral Agent Builder](https://github.com/blue-lotus-org/mistral-agent-builder) || [Gemini Agent Builder](https://github.com/blue-lotus-org/gemini-agent-generator) |
 |---|---|---|
 | [MCP](https://github.com/blue-lotus-org/MCP) || [Linux Terminal AI-Moderator](https://github.com/blue-lotus-org/mysterminal) |
 | [Smartcontract Pipline Agent](https://github.com/blue-lotus-org/Smartcontract-AI-Agentic-System) || [Linux Kernel Optimizer - Live Edition](https://github.com/blue-lotus-org/LinuxKernelOptimization) |
