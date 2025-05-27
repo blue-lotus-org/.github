@@ -102,7 +102,8 @@ Let's shape the future of AI-driven innovation together!
 | [Content Editor (Word)](https://github.com/blue-lotus-org/mistral-content-editor) || [Knowledge Graph Controler](https://github.com/blue-lotus-org/knowledge) |
 | [Mistral Agent Builder](https://github.com/blue-lotus-org/mistral-agent-builder) || [Gemini Agent Builder](https://github.com/blue-lotus-org/gemini-agent-generator) |
 |---|---|---|
-| [Radiology Report Form](https://github.com/blue-lotus-org/Radiology-Report-Form) |  |[Deep Search](https://github.com/blue-lotus-org/deep-search)|
+| [Radiology Report Form](https://github.com/blue-lotus-org/Radiology-Report-Form) || [Deep Search](https://github.com/blue-lotus-org/deep-search)|
+| [Business Doc Generator](https://github.com/blue-lotus-org/business-doc-generator) |||
 |---|---|---|
 | [Wolfram Alpha - AI Math Teacher](https://github.com/blue-lotus-org/wolfram-gen) || [NeoLogy - Simulation of life](https://github.com/blue-lotus-org/neology-life) |
 |---|---|---|
