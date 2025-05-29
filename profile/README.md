@@ -93,6 +93,8 @@ Let's shape the future of AI-driven innovation together!
 #
 
 ## Our Free & Opensource Projects (AI)
+> These apps are flexible and raw. Easily modify and put your own backend on top of it. Just for ideation and even development. Enjot it!
+
 |---||---|
 |---|---|---|
 | [UML V1](https://github.com/blue-lotus-org/UML) || [UML V2](https://github.com/blue-lotus-org/UML-v2) |
