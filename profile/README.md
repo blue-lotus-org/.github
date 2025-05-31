@@ -103,6 +103,7 @@ Let's shape the future of AI-driven innovation together!
 | [Mistral Agent Pipeline](https://github.com/blue-lotus-org/Agent-Pipeline) || [Github Tree](https://github.com/blue-lotus-org/mistree) |
 | [Content Editor (Word)](https://github.com/blue-lotus-org/mistral-content-editor) || [Knowledge Graph Controler](https://github.com/blue-lotus-org/knowledge) |
 | [Mistral Agent Builder](https://github.com/blue-lotus-org/mistral-agent-builder) || [Gemini Agent Builder](https://github.com/blue-lotus-org/gemini-agent-generator) |
+| [AI Agent Agency (Genesis)](https://github.com/blue-lotus-org/ai-agents-agency) ||  |
 |---|---|---|
 | [Radiology Report Form](https://github.com/blue-lotus-org/Radiology-Report-Form) || [Gnome Extension Generator](https://github.com/blue-lotus-org/gnome-extension-generator) |
 |---|---|---|
