@@ -110,6 +110,7 @@ Let's shape the future of AI-driven innovation together!
 | [Deep Search](https://github.com/blue-lotus-org/deep-search) || [Trend Search Assistant](https://github.com/blue-lotus-org/trend-search) |
 | [Business Doc Generator](https://github.com/blue-lotus-org/business-doc-generator) || [Content Editor "Co-Pilot"](https://github.com/blue-lotus-org/content-copiloting) |
 | [Business Insight](https://github.com/blue-lotus-org/business-insight) || [Knowledge Base](https://github.com/blue-lotus-org/knowledge-base) |
+| [Automata Deep Research](https://github.com/blue-lotus-org/automata-deep-search) |||
 |---|---|---|
 | [Wolfram Alpha - AI Math Teacher](https://github.com/blue-lotus-org/wolfram-gen) || [NeoLogy - Simulation of life](https://github.com/blue-lotus-org/neology-life) |
 |---|---|---|
