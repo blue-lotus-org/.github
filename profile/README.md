@@ -106,6 +106,7 @@ Let's shape the future of AI-driven innovation together!
 | [AI Agent Agency (Genesis)](https://github.com/blue-lotus-org/ai-agents-agency) ||  |
 |---|---|---|
 | [Radiology Report Form](https://github.com/blue-lotus-org/Radiology-Report-Form) || [Gnome Extension Generator](https://github.com/blue-lotus-org/gnome-extension-generator) |
+| [Equity Manager "Captable Generator"](https://github.com/blue-lotus-org/captable-generator) |||
 |---|---|---|
 | [Deep Search](https://github.com/blue-lotus-org/deep-search) || [Trend Search Assistant](https://github.com/blue-lotus-org/trend-search) |
 | [Business Doc Generator](https://github.com/blue-lotus-org/business-doc-generator) || [Content Editor "Co-Pilot"](https://github.com/blue-lotus-org/content-copiloting) |
