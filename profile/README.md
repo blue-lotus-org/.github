@@ -97,8 +97,9 @@ Let's shape the future of AI-driven innovation together!
 
 |---||---|
 |---|---|---|
-| [Lotus Vibe Code AI Agent](https://github.com/blue-lotus-org/LotusCoder) |---| [Node Package status](https://github.com/blue-lotus-org/package-updater) |
+| [](https://github.com/blue-lotus-org/safe-os) |||
 | [Lotshot - Backend solution](https://github.com/blue-lotus-org/lotshot/) |---| [Python virtual environment manager by C++](https://github.com/blue-lotus-org/pyp-cpp) |
+| [Lotus Vibe Code AI Agent](https://github.com/blue-lotus-org/LotusCoder) |---| [Node Package status](https://github.com/blue-lotus-org/package-updater) |
 |---|---|---|
 | [UML V1](https://github.com/blue-lotus-org/UML) || [UML V2](https://github.com/blue-lotus-org/UML-v2) |
 | [Jobby (Apply Board)](https://github.com/blue-lotus-org/jobby) || [Database Organizer](https://github.com/blue-lotus-org/Database-Organizer) |
@@ -223,6 +224,7 @@ Papers Directory:
           This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
      </sub>
 </div>
+
 
 
 
