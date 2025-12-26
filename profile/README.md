@@ -98,7 +98,7 @@ Let's shape the future of AI-driven innovation together!
 |---||---|
 |---|---|---|
 | [Sandbox - Linux/Mac](https://github.com/blue-lotus-org/safe-os) | | [Sandbox - Linux](https://github.com/blue-lotus-org/sandbox) |
-| [Safe SSH client](https://github.com/blue-lotus-org/easy_ssh-client) |||
+| [Safe SSH client](https://github.com/blue-lotus-org/easy_ssh-client) || [Notebook LITE desktop edition](https://github.com/blue-lotus-org/lotus-notebook) |
 | [Lotshot - Backend solution](https://github.com/blue-lotus-org/lotshot/) |---| [Python virtual environment manager by C++](https://github.com/blue-lotus-org/pyp-cpp) |
 | [Lotus Vibe Code AI Agent](https://github.com/blue-lotus-org/LotusCoder) |---| [Node Package status](https://github.com/blue-lotus-org/package-updater) |
 |---|---|---|
@@ -225,6 +225,7 @@ Papers Directory:
           This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
      </sub>
 </div>
+
 
 
 
